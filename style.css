@@ -1,0 +1,106 @@
+.require {
+    color: red;
+}
+
+.label-inner {
+    text-transform: uppercase;
+}
+
+.btn {
+    margin-top: 30px;
+    width: 200px;
+    background-color:white;
+}
+
+  .average_yearly_bill{
+      background-image: url('AYB.jpg');
+      width:100%;
+      height:250px;
+      font-size:20px;
+      font-weight: 600;
+      background-repeat: no-repeat;
+      border: 1px solid #f6a723;
+      text-transform: uppercase;
+      position: relative;
+  }
+  .value{
+      position: absolute;
+      bottom:10px;
+      color:#ce181e;
+      font-size:30px;
+      left: 5px;
+  }
+  .size{
+    color:#ce181e;
+    font-size:30px;
+  }
+  .inr{
+      font-size: 15px;
+  }
+  .recomand{
+    color:#ce181e;
+    font-size:30px;
+  }
+  .net{
+    color:#ce181e;
+    font-size:30px;
+  }
+  .estimate{
+    color:#ce181e;
+    font-size:30px;
+  }
+  .size_require{
+    background-image: url('SizeRequired.jpg');
+    width:100%;
+    height:250px;
+    font-size:20px;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    text-transform: uppercase;
+    border: 1px solid #f6a723;
+    position: relative;
+}
+  .kw_system{
+    background-image: url('kwSystemrecommended.jpg');
+    width:100%;
+    height:250px;
+    font-size:20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    border: 1px solid #f6a723;
+    position: relative;
+  }
+  .estimated_generation{
+    background-image: url('solar-power-generation-annually.jpg');
+    width:100%;
+    height:250px;
+    font-size:20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    border: 1px solid #f6a723;
+    position: relative;
+  }
+  .net_system_cost{
+    background-image: url('NetSystemCostafterSubsidy.jpg');
+    width:100%;
+    height:250px;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    border: 1px solid #f6a723;
+    position: relative;
+  }
+  .Contribution_to_the_environment{
+    background-image: url('your-contribution02.jpg');
+    width:100%;
+    height:250px;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    border: 1px solid #f6a723;
+    position: relative;
+  }
